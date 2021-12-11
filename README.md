@@ -1,6 +1,6 @@
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) The Excuse Generator - Prework
 
-✏ *Create a website similar to **<https://raw.githubusercontent.com/breatheco-de/tutorial-project-excuse-generator-javascript/master/preview.gif>***
+✏ *Create a website similar to **<https://raw.githubusercontent.com/breatheco-de/tutorial-project-excuse-generator-javascript/master/preview.gif>***.
 
 ## What to do next?
 
@@ -21,7 +21,5 @@ pip3 install flask && python3 server.py
 ## Direct live demo 🎬
 
 <https://raw.githack.com/m4n50n/excuse_generator_exercise_prework/main/index.html>
-
-<https://jsfiddle.net/m4n5on/sbcp0rjw/1/>
 
 💻 _Jose Clemente García Rodríguez_ (<https://github.com/m4n50n>)
