@@ -6,14 +6,11 @@ let when = ['before the class','right on time','when I finished','during my lunc
 let elements = [who, action, what, when];
 
 const startExcuse = (elements) => {    
-    let excuse = "", rand = 0;
+    let excuses = elements.map(value => {
+        return value[Math.floor(Math.abs(Math.random() * value.length - 1))];
+    });
 
-    for (let i = 0; i < elements.length; i++) {
-        rand = Math.floor(Math.abs(Math.random() * elements[i].length - 1));
-        excuse += elements[i][rand] + " ";
-    }
-    
-    document.querySelector("#excuse").innerHTML = excuse.trim();
+    document.querySelector("#excuse").innerHTML = excuses.join(" ");
 }
 
 window.onload = function() {
