@@ -14,6 +14,8 @@ pip3 install flask && python3 server.py
 
 <https://learn.breatheco.de/course/coding-introduction.v1/4/p/excuse-generator>
 
+<https://github.com/breatheco-de/tutorial-project-excuse-generator-javascript>
+
 <https://www.youtube.com/watch?v=0J4SbVSjxvU>
 
 <https://bitbucket.org/codingacademy/excuse-generator/src/master/>
